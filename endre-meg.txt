@@ -1,5 +1,4 @@
 Dette er en tekstfil
 
-Denne linja kan du endre
-
+nei
 Hilsen Jon
