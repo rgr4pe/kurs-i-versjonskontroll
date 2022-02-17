@@ -1,4 +1,6 @@
 Dette er en tekstfil
 
 nei
+Jeg har også endret denne
+
 Hilsen Jon
